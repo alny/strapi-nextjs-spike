@@ -38,7 +38,7 @@ class Cart extends React.Component {
           <hr />
           <CardBody style={{ padding: 10 }}>
             <div style={{ marginBottom: 6 }}>
-              <small>Items:</small>
+              <small>Current Items:</small>
             </div>
             <div>
               {items
